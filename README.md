@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**orifjonovabdulaziz/orifjonovabdulaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me:
+- 🔬 I’m currently working in scientific research.
+- 🎓 First-year Bachelor's student at **IT Park University (ITPU)**.
+- 💡 Passionate about IT, programming, and innovation.
+- 📱 Developing mobile applications in **Kotlin** and **Flutter**.
+- 🚀 Exploring new technologies and contributing to open-source projects.
 
-Here are some ideas to get you started:
+### 📫 How to reach me:
+- Email: **Abdulaziz_Orifjonov@student.itpu.uz**
+- GitHub: https://github.com/orifjonovabdulaziz
+- LinkedIn: https://www.linkedin.com/in/abdulaziz-orifjonov-359360240/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Fun Fact:
+I love solving complex problems and learning new things every day!
+
+---
+Feel free to check out my repositories and connect with me! 😊
+
