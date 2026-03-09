@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me:
 - 🔬 I’m currently working in scientific research.
-- 🎓 First-year Bachelor's student at **IT Park University (ITPU)**.
+- 🎓 Second-year Bachelor's student at **IT Park University (ITPU)**.
 - 💡 Passionate about IT, programming, and innovation.
 - 📱 Developing mobile applications in **Kotlin** and **Flutter**.
 - 🚀 Exploring new technologies and contributing to open-source projects.
